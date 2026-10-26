@@ -3,8 +3,8 @@
 - Class: 2A22(**DCPE**)
 - Web-site: [Singapore Polytechnic](https://www.sp.edu.sg)
 
-![GitHub logo](GitHub.png)
+![GitHub logo](github.png)
 
 - [X] Install Git and Python
 - [X] Learn Git and GitHub
-- [] C++ coding
+- [ ] C++ coding
